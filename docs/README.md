@@ -2,13 +2,13 @@
 
 GamingActivity resource: platform, rank, hours, gradient theming and looking-for-team, with slug detail pages.
 
-- **Source:** https://github.com/fadymondy/gaming
+- **Source:** https://github.com/togo-framework/gaming
 - **Reference app:** https://fadymondy.com
 
 ## Install
 
 ```bash
-togo install fadymondy/gaming
+togo install togo-framework/gaming
 ```
 
 The plugin self-registers on blank-import (no manual wiring). See the top-level

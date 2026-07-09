@@ -1,4 +1,4 @@
-module github.com/fadymondy/gaming
+module github.com/togo-framework/gaming
 
 go 1.26.4
 
